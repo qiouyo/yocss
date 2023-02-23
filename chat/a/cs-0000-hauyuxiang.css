@@ -305,7 +305,7 @@ color:white !important;
 display:none;
 }
 yt-live-chat-membership-item-renderer yt-live-chat-author-chip::after{
-content:"特殊字样7";
+content:"欢迎新舰长";
 position:absolute;
 width:280px;
 top:45px;
